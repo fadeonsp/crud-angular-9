@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "Samsung s20+",
+      "price": 5000.89
+    },
+    {
+      "name": "produto comum",
+      "price": 198.12,
+      "id": 4
+    },
+    {
+      "name": "frigobar",
+      "price": "400.99",
+      "id": 5
+    },
+    {
+      "name": "boné",
+      "price": "49.99",
+      "id": 7
+    }
+  ]
+}
